@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "new",
-    "project_version":    "34b61d3-dirty",
+    "project_version":    "64190c6-dirty",
     "project_path":       "C:/Users/rajch/ESP/new",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.2",
     "build_dir":          "C:/Users/rajch/ESP/new/build",
